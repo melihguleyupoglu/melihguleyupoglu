@@ -32,8 +32,8 @@ If I'm using a tool, I'm probably also trying to **rebuild a tiny version of it*
 
 ### 🤝 Want to Know More?
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/melihguleyupoglu)
-![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)
-![Discord](https://img.shields.io/badge/melihgpl-%235865F2.svg?&logo=discord&logoColor=white)
+[![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#)
+[![Discord](https://img.shields.io/badge/melihgpl-%235865F2.svg?&logo=discord&logoColor=white)](#)
 
 
 <p align="center">If it works, great. If i know why it works, even better.</p>
